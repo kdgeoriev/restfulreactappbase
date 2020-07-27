@@ -3,12 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Libraries used:
 
 - Redux
--React-redux
--Redux-thunk: https://github.com/reduxjs/redux-thunk
--Lodash
--Axios
--React-router
--Redux-Form: https://redux-form.com/8.2.2/examples/initializefromstate/
+- React-redux
+- Redux-thunk: https://github.com/reduxjs/redux-thunk
+- Lodash
+- Axios
+- React-router
+- Redux-Form: https://redux-form.com/8.2.2/examples/initializefromstate/
 
 ##API's used:
 - Google Auth
