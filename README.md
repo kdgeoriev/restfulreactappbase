@@ -2,19 +2,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Libraries used:
 
-- Redux
-- React-redux
+- Redux: https://github.com/reduxjs/redux
+- React-redux: https://react-redux.js.org/
 - Redux-thunk: https://github.com/reduxjs/redux-thunk
-- Lodash
-- Axios
-- React-router
+- Lodash: https://lodash.com/
+- Axios: https://github.com/axios/axios
+- React-router: https://reactrouter.com/web/guides/quick-start
 - Redux-Form: https://redux-form.com/8.2.2/examples/initializefromstate/
 
-##API's used:
-- Google Auth
+## CSS Libary:
+Semantic UI: https://semantic-ui.com/
 
-#REST server:
+##API's used:
+- Google Auth: https://developers.google.com/identity/sign-in/web/reference#auth_setup
+
+#REST server (needs to be installed to work with the project):
 - json-server: https://www.npmjs.com/package/json-server
 
 
-#todo: add github links and proper names
