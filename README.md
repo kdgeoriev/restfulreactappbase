@@ -16,7 +16,7 @@ Semantic UI: https://semantic-ui.com/
 ##API's used:
 - Google Auth: https://developers.google.com/identity/sign-in/web/reference#auth_setup
 
-#REST server (needs to be installed to work with the project):
+#REST server (needs to be installed if you want to use the project as-is):
 - json-server: https://www.npmjs.com/package/json-server
 
 
